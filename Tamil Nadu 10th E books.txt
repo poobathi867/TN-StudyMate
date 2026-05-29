@@ -1,0 +1,102 @@
+10th E books
+<h2>Tamil Medium</h2>
+<table border="1" style="width: 100%;">
+  <thead>
+    <tr>
+      <th width="34%">Subject Name</th>
+      <th width="22%"><div align="center">PDF</div></th>
+      <th width="22%"><div align="center">EPUB</div></th>
+      <th width="22%"><div align="center">HTML</div></th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+      <td>Tamil</td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/126HDzwgKz1gNaSXWJSow2upisHXVe57-/view?usp=drivesdk" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/166I0ZnRqlMpbwlCg7JuOduRHuZfRrQBQ/view?usp=sharing" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://d1wpyxz35bzzz4.cloudfront.net/tnschools/10-Tamil-TM/10-Tamil-TM.html" rel="nofollow noopener" target="_blank"><b>View</b></a></td>
+    </tr>
+        <tr>
+      <td>English</td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/1IM8pIb30Td-Od7Xb5kV-kPLns9_TxvQ3/view?usp=drivesdk" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/1NRWInONsU2DmLE3myu2Bs2Kg4J1f_1V9/view?usp=sharing" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://d1wpyxz35bzzz4.cloudfront.net/tnschools/10-eng-n/10-eng-n.html" rel="nofollow noopener" target="_blank"><b>View</b></a></td>
+    </tr>
+    <tr>
+      <td>Mathematics</td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/1BLAJHjMzbBuYesS2qL6NDEl7Tf3xmNBC/view?usp=drivesdk" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/1T0wACCr_chKa5V6Eu52_2q2afEfIZBuz/view?usp=sharing" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://d1wpyxz35bzzz4.cloudfront.net/tnschools/10mathsTM/10mathsTM.html" rel="nofollow noopener" target="_blank"><b>View</b></a></td>
+    </tr>
+    <tr>
+      <td>Science</td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/16mbZtP_8H902it-bbWOAzOZ58bPpgqFL/view?usp=drivesdk" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/18E_MOFBjLIUYi0Cc2Ui2JbScDbVf-IT1/view?usp=sharing" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://d1wpyxz35bzzz4.cloudfront.net/tnschools/10-Science-TM/10-Science-TM.html" rel="nofollow noopener" target="_blank"><b>View</b></a></td>
+    </tr>
+    <tr>
+      <td>Social Science</td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/1gT8-P5oMKwVw3rcMN0JdWhW9iei00qKs/view?usp=drivesdk" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/1vQfcYT1h2LQP_wb1U62oiq2A7oVoSXOE/view?usp=sharing" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://d1wpyxz35bzzz4.cloudfront.net/tnschools/10-SOCIALSCIENCE-TM/10-SOCIALSCIENCE-TM.html" rel="nofollow noopener" target="_blank"><b>View</b></a></td>
+    </tr>
+    <tr>
+      <td>Physical Education</td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/1y9MF6Vr5TdQZMWLfwqDVVrZjO8pnUtpv/view?usp=drivesdk" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><b>-</b></td>
+      <td style="text-align: center;"><b>-</b></td>
+    </tr>
+
+  </tbody>
+</table>
+<br />
+<h2>English Medium</h2>
+<table border="1" style="width: 100%;">
+  <thead>
+    <tr>
+      <th width="34%">Subject Name</th>
+      <th width="22%"><div align="center">PDF</div></th>
+      <th width="22%"><div align="center">EPUB</div></th>
+      <th width="22%"><div align="center">HTML</div></th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+      <td>Tamil</td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/126HDzwgKz1gNaSXWJSow2upisHXVe57-/view?usp=drivesdk" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/166I0ZnRqlMpbwlCg7JuOduRHuZfRrQBQ/view?usp=sharing" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://d1wpyxz35bzzz4.cloudfront.net/tnschools/10-Tamil-TM/10-Tamil-TM.html" rel="nofollow noopener" target="_blank"><b>View</b></a></td>
+    </tr>
+    <tr>
+      <td>English</td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/1IM8pIb30Td-Od7Xb5kV-kPLns9_TxvQ3/view?usp=drivesdk" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/1NRWInONsU2DmLE3myu2Bs2Kg4J1f_1V9/view?usp=sharing" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://d1wpyxz35bzzz4.cloudfront.net/tnschools/10-eng-n/10-eng-n.html" rel="nofollow noopener" target="_blank"><b>View</b></a></td>
+    </tr>
+    <tr>
+      <td>Mathematics</td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/13XJXdPhuGqU3BG3BPrsmzZwUUFOuH6Of/view?usp=drivesdk" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/1pVt9sjhN7Mqzp5OQqjDMjJQjzW-_pTWN/view?usp=sharing" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://d1wpyxz35bzzz4.cloudfront.net/tnschools/10-MATHS-EM/10-MATHS-EM.html" rel="nofollow noopener" target="_blank"><b>View</b></a></td>
+    </tr>
+    <tr>
+      <td>Science</td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/1n9pMjxmIWqE5llQpHDdh-vFu8Gemsw1k/view?usp=drivesdk" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/1TiifQCCLSeh8mRIwMwp08TNM1hI7MkPs/view?usp=sharing" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://d1wpyxz35bzzz4.cloudfront.net/tnschools/10-Science-EM/10-Science-EM.html" rel="nofollow noopener" target="_blank"><b>View</b></a></td>
+    </tr>
+    <tr>
+      <td>Social Science</td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/1neVsjraP49u5rtfQBAzMcojHTtoMhqtb/view?usp=drivesdk" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/19ZkEY1bE7HeJYlZChwAuH2iwpMl73ca9/view?usp=sharing" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><a href="https://d1wpyxz35bzzz4.cloudfront.net/tnschools/10-SOCIALSCIENCE-EM/10-SOCIALSCIENCE-EM.html" rel="nofollow noopener" target="_blank"><b>View</b></a></td>
+    </tr>
+        <tr>
+      <td>Physical Education</td>
+      <td style="text-align: center;"><a href="https://drive.google.com/file/d/1G5y4qNc3MFOL_pMmRffWnlTkQKmNCRGv/view?usp=drivesdk" rel="nofollow noopener" target="_blank"><b>Download</b></a></td>
+      <td style="text-align: center;"><b>-</b></td>
+      <td style="text-align: center;"><b>-</b></td>
+    </tr>
+  </tbody>
+</table>
+<br />
